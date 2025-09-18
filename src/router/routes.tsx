@@ -1,5 +1,5 @@
-import HomePage from "../pages/HomePage";
-import AuthorizationPage from "../pages/AuthorizationPage";
+import HomePage from "@pages/HomePage";
+import AuthorizationPage from "@pages/AuthorizationPage";
 import { type RouteObject } from "react-router-dom";
 
 export const paths = {
